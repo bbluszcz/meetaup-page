@@ -4,8 +4,7 @@ body {
   font-family: 'Raleway', sans-serif; }
 
 .wrapper {
-  width: 100%;
-  max-width: 85.375rem; }
+  width: 100%; }
 
 .container {
   width: 100%;
@@ -14,7 +13,8 @@ body {
 
 .header {
   width: 100%;
-  background-color: #4a454b; }
+  background-color: #4a454b;
+  padding-bottom: 2rem; }
   .header .logo {
     width: 14.375rem; }
     .header .logo img {
@@ -76,7 +76,7 @@ body {
           transform: skew(0deg, -5deg);
   margin: 7rem auto;
   padding: 7rem 0 4rem;
-  margin-top: -5rem;
+  margin-top: -7rem;
   background-color: #4a454b;
   position: relative;
   z-index: -1; }
